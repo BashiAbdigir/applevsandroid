@@ -1,0 +1,44 @@
+html {
+  background-color: #cabfb6;
+}
+
+body {
+  background-color: white;
+  width: 600px;
+  height: 900px;
+  margin: auto;
+  font-family: "Open Sans", sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 100px;
+}
+
+#debate {
+  background-color: #c9793b;
+  width: 150px;
+  text-align: center;
+  margin: 0px auto;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#android {
+  background-color: #a4c93b;
+}
+
+#apple {
+  background-color: #b6bcca;
+}
+
+button {
+  font-size: 20px;
+  border: transparent;
+  border-radius: 4px;
+  width: 100px;
+  height: 30px;
+}
